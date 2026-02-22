@@ -13,11 +13,11 @@ Las fuerzas resultantes que actúan en un perfil alar o sección aerodinámica p
 </p>
 
 $$
-dL = \frac{1}{2}\,\rho\,V_e^{2}\,c\,C_l\,dr
+dL = \frac{1}{2} \rho V_e^{2}cC_ldr
 $$
 
 $$
-dD = \frac{1}{2}\,\rho\,V_e^{2}\,c\,C_d\,dr
+dD = \frac{1}{2}\rho V_e^{2}cC_ddr
 $$
 
 Las fuerzas aerodinámicas que actúan sobre un cuerpo son directamente proporcionales a la presión dinámica en el flujo, que es la presión asociada a la energía cinética del fluido y se expresa como:
@@ -60,3 +60,8 @@ La herramienta es liberada para su uso, bajo la licencia de MIT permitiendo su a
 -   Entre otras
 
 En Olilienthal entendemos que el acceso estructurado a datos meteorológicos históricos es una herramienta fundamental para convertir la variabilidad atmosférica en criterio de diseño y desarrollo tecnológico.
+
+### Referencias:
+- https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/airfoil-characteristics/
+- McCormick, B. W., Aerodynamics, Aeronautics, and Flight Mechanics, 1979
+- Meteorology for Scientists and Engineers, 3rd Edition
